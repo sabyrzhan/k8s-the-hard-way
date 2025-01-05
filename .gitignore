@@ -1,2 +1,6 @@
 .idea/
 *.iml
+terraform/provider_aws_config.tf
+**/*.lock.hcl
+**/*.tfstate*
+**/.terraform/
